@@ -1,0 +1,24 @@
+@import '../../styles/variables.css';
+
+.nav-wrapper{
+    flex-basis: 70%;
+    height: 2em;
+    margin-left: 7em;
+    align-self: flex-end;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.nav-wrapper ul li{
+    display: inline-block;
+    margin-right: 1em;
+    padding: 0em 1.4em .3em 1em;
+}
+
+.link{
+    color: var(--color-dark-grey);
+}
+
+

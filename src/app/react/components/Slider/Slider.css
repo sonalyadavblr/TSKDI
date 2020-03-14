@@ -1,0 +1,13 @@
+/*@import '../../styles/variables.css';*/
+
+.slider-wrapper{
+    height: 30em;
+    background: yellow;
+    margin: 0 auto;
+}
+
+.ui-image{
+    height: 100%;
+    width: 100%;
+}
+

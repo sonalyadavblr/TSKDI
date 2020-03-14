@@ -1,0 +1,17 @@
+@import '../../styles/variables.css';
+.login-register{
+    flex-basis: 20%;
+    height: 2em;
+    margin-left: 10em;
+    align-self: flex-end;
+}
+
+.login-register ul li {
+    display: inline-block;
+    margin-right: 1em;
+    padding: 0em 1em .3em 1em;
+}
+
+.link{
+    color: var(--color-dark-grey);
+}

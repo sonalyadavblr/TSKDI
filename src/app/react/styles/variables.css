@@ -1,0 +1,23 @@
+:root{ 
+
+--color-light-grey : #eaeaea;
+--color-dark-grey: #32373c;
+
+
+--font-size-largest: 30px;
+--font-size-large: 20px;
+--font-size-regular:16px;
+--font-size-normal:14px;
+--font-size-small:12px;
+--font-size-smallest:10px;
+
+--line-height-largest: 38px;
+--line-height-large: 28px;
+--line-height-regular: 24px;
+--line-height-small: 20px;
+--line-height-smallest: 18px;
+
+}
+
+
+
