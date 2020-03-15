@@ -1,3 +1,5 @@
-.app-content-wrapper{
-    height: 31em;
+.app-content-wrapper {
+    margin: 1em;
+    /*background: green;*/
+    /*flex-shrink: 0;*/
 }

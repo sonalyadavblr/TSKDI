@@ -12,7 +12,7 @@ export default class Home extends React.Component
 	{
 		return (
 			<div className="home-wrapper">
-				<Slider/>
+				<Slider />
 			</div>
 		);
 	}

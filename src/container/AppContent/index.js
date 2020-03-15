@@ -27,9 +27,7 @@ export default class AppContent extends React.Component
                     <Route exact path="/contactus"><ContactUs /></Route>
                     <Route exact path="/login"><Login /></Route>
                     <Route exact path="/register"><Register /></Route>
-                  
                 </Switch>
-            
             </div>
         );
     }

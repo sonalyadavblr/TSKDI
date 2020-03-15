@@ -14,8 +14,8 @@ export default class App extends React.Component
 			<Router>
 				<Header />
 				<AppContent />
-			</Router>
 				<Footer />
+			</Router>
 		</React.Fragment>
     );
   }
