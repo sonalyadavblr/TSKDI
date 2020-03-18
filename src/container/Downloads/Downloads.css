@@ -1,0 +1,10 @@
+.downloads-wrapper {
+    background: yellow;
+    display: flex;
+}
+
+.downloads-box{
+    width: 20%;
+    height: 20%;
+    border: 1px solid #eaeaea;
+}
